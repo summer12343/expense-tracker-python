@@ -10,5 +10,5 @@ Projeto simples em Python para controle de gastos pessoais via terminal.
 - Salvamento automático em arquivo JSON
 
 # Tecnologias
-- Python 3
+- Python 
 - JSON (armazenamento de dados)
